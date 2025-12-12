@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
     // Set precision for timer output.
     cout << fixed << setprecision(2);
 
+    
     // Get input values, algorithm and array size, from command line if
     // provided else from stdin.
     int algo = 0;
